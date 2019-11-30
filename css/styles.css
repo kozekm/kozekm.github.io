@@ -69,3 +69,30 @@ li:hover {
   font size: 10em;
   transition:1s ease;
 }
+.w-carousel-main {
+  width: 80%!important;
+  margin: auto;
+}
+
+.w-carousel-side {
+  width: 10%!important;
+}
+
+.carousel-image{
+  margin: auto;
+  height: 100%;
+}
+
+.custom-carousel-indicators {
+    position: relative;
+    right: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
