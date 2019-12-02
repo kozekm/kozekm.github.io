@@ -20,7 +20,15 @@ h2{
   font-size: 2.5em;
 }
 
+table{
+   border-collapse: collapse;
+   text-align: left;
+    padding: 12px;
+	FONT-FAMILY: verdana, helvetica,  sans-serif;
+	COLOR:black;
+	background-color:white
 
+}
 
 p{
   width:40%;
