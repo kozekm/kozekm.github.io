@@ -54,6 +54,11 @@ ol{
   justify-content: space-evenly;
 }
 
+iframe{
+
+  display:flex;
+}
+
 div.box {
   background-color:black;
   color: white;
