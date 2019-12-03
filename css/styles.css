@@ -27,6 +27,7 @@ table{
 	FONT-FAMILY: verdana, helvetica,  sans-serif;
 	COLOR:black;
 	background-color:white
+  display: flex;
 
 }
 
