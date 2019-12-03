@@ -56,7 +56,7 @@ ol{
 
 iframe{
 
-  text-align: left;
+  display: flex;
 }
 
 div.box {
